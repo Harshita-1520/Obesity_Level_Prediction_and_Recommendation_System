@@ -7,16 +7,16 @@ This is a comprehensive machine learning model comprises of both supervised and 
 
 ### Choosing data
 This data is choosen from Kaggle and it comprises of various features about personal information, eatery habits and lifestyle factors that can contribute in causing a certain type of obesity in an individual. 
-**Personal information**: Age, gender, height, weight, family history with overweight etc.
-**Eatery Habits**: No. of meals per day, amount of water per day, consumption of vegetables, etc.
-**Lifestyel Factors**: physical activity, smoking, alcohol consumption, calory count etc.
+- **Personal information**: Age, gender, height, weight, family history with overweight etc.
+- **Eatery Habits**: No. of meals per day, amount of water per day, consumption of vegetables, etc.
+- **Lifestyel Factors**: physical activity, smoking, alcohol consumption, calory count etc.
 ### Workflow of project
-**Exploartory Data Analysis**: performed univariate and multivariate data analysis on categorical and numerical variables.
-**Data preprocessing**: handling outliers, encoding categorical features, adding features
-**Classification model**: used various algorithms and experiments to classify individual in 7 categories. Logistic regression, random forest, gradient boost and XG boost was used
-**Clustering model**: K-means, hierarchical clustering and Dbscan was used to make clusters/groups in data.
-**Recommendations**: Well targeted and curated recommendations were written for every cluster on the basis of some unique features of those groups.
-**Model deployment**: Model was deployed with the help of streamlit and then deployed on Hugginf face.
+- **Exploartory Data Analysis**: performed univariate and multivariate data analysis on categorical and numerical variables.
+- **Data preprocessing**: handling outliers, encoding categorical features, adding features
+- **Classification model**: used various algorithms and experiments to classify individual in 7 categories. Logistic regression, random forest, gradient boost and XG boost was used
+- **Clustering model**: K-means, hierarchical clustering and Dbscan was used to make clusters/groups in data.
+- **Recommendations**: Well targeted and curated recommendations were written for every cluster on the basis of some unique features of those groups. These recommendations are well researched and cited.
+- **Model deployment**: Model was deployed with the help of streamlit and then deployed on Hugginf face.
 Link: https://huggingface.co/spaces/Harshita-Agarwal/Obesity_level_predictor
 
 ### Relevance
